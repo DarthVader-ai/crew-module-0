@@ -1,1 +1,2 @@
-# crew-module-0
+# Adithya Nair
+Ijoined devsoc as i wanted to learn web dev
